@@ -42,3 +42,6 @@ We have plans to add more features that will be helpful to users and relationshi
 # Future of the Project:
 We will add more features which are the admin panel, users panel, Bio-data panel, Location. The payment will be reliable over the user's demand. The payment systems such as Bkash, Paypal etc. We will add most of the payment systems that are available for Bangladesh. We didn't update many things for a short time. We will update those features in the future and those will help the user to get their item and order the item they want more easily.
 
+## A sample of project
+![Screenshot (156)](https://user-images.githubusercontent.com/66082987/146216805-5d22a2dc-ea57-4c80-81fc-ef0cd5504946.png)
+
